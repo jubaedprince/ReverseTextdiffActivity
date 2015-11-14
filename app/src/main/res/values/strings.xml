@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reverse Text diff Activity</string>
+    <string name="title_activity_display_reverse_string">DisplayReverseStringActivity</string>
+</resources>
